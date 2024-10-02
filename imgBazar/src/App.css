@@ -1,0 +1,7 @@
+img{
+  width: 250px;
+  height: 250px;
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px greenyellow;
+}
